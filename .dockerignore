@@ -1,0 +1,9 @@
+.git/
+.vscode/
+docs/
+venv/
+
+.git*
+*.csv
+*.sh
+*.bat
